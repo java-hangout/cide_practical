@@ -1,3 +1,2 @@
 this is just for testing merge conflicts
-Editing in file from feature branch
 
